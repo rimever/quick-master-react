@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e352fb7b-5615-44e7-bb38-c4986a1fa4da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/event-basic/src/MyChild.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-basic/src/MyEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-basic/src/MyParent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-basic/src/MyPool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/event-basic/src/MyState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-basic/src/MyForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop-basic/src/MyArticle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prop-basic/src/MyHello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prop-basic/src/MyProp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyCheckMulti.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyRadio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-textarea/src/MySelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyTextarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/life-cycle/src/MyLife.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,7 @@
       <workItem from="1595840970736" duration="1340000" />
       <workItem from="1595842738849" duration="1670000" />
       <workItem from="1595844432238" duration="238000" />
-      <workItem from="1595845975135" duration="5160000" />
+      <workItem from="1595845975135" duration="8687000" />
     </task>
     <servers />
   </component>
