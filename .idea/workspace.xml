@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e352fb7b-5615-44e7-bb38-c4986a1fa4da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyCheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyCheckMulti.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyRadio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-textarea/src/MySelect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form-textarea/src/MyTextarea.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/life-cycle/src/MyLife.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-basic/src/MyCheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-basic/src/MyList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router-basic/src/MyTextarea.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router-basic/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/router-basic/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/router-basic/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,6 +48,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/router-basic/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/event-basic/src" />
     </key>
@@ -67,7 +67,8 @@
       <workItem from="1595840970736" duration="1340000" />
       <workItem from="1595842738849" duration="1670000" />
       <workItem from="1595844432238" duration="238000" />
-      <workItem from="1595845975135" duration="8687000" />
+      <workItem from="1595845975135" duration="8807000" />
+      <workItem from="1595893351777" duration="498000" />
     </task>
     <servers />
   </component>
