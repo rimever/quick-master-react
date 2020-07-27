@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e352fb7b-5615-44e7-bb38-c4986a1fa4da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/component-basic/src/MyAttrMulti.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component-basic/src/MyBook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component-basic/src/MyCover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component-basic/src/MyHello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component-basic/src/MyHelloContent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/component-basic/src/MyType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event-basic/src/MyChild.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event-basic/src/MyEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event-basic/src/MyParent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event-basic/src/MyPool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event-basic/src/MyState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form-basic/src/MyForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop-basic/src/MyArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prop-basic/src/MyHello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prop-basic/src/MyProp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +38,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/event-basic/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +69,7 @@
       <workItem from="1595840970736" duration="1340000" />
       <workItem from="1595842738849" duration="1670000" />
       <workItem from="1595844432238" duration="238000" />
-      <workItem from="1595845975135" duration="1577000" />
+      <workItem from="1595845975135" duration="5160000" />
     </task>
     <servers />
   </component>
