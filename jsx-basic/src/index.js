@@ -15,9 +15,8 @@ const attrs = {
 }
 
 ReactDOM.render(
-  <React.StrictMode>
     <React.Fragment>
-        <p>Start React!</p>
+        <p style={style}>Start React!</p>
         <p>Jsx Basic</p>
         <label htmlFor="name" className="sky">
             <input id="name" type="text" tabIndex="0" />
@@ -35,7 +34,7 @@ ReactDOM.render(
         <a href="{url}">Support Site</a>
         <img {...attrs} />
     </React.Fragment>
-  </React.StrictMode>,
+    ,
   document.getElementById('root')
 );
 

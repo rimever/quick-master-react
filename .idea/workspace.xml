@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e352fb7b-5615-44e7-bb38-c4986a1fa4da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simple-react/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-react/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsx-basic/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsx-basic/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,8 @@
       <updated>1595769708612</updated>
       <workItem from="1595769710372" duration="44000" />
       <workItem from="1595840970736" duration="1340000" />
-      <workItem from="1595842738849" duration="1232000" />
+      <workItem from="1595842738849" duration="1670000" />
+      <workItem from="1595844432238" duration="23000" />
     </task>
     <servers />
   </component>
